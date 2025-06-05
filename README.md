@@ -10,8 +10,8 @@ activate your virtualenv
 
 or
 
-python demo_video.py "123445667"
-python demo_reel.py "123445667"
+- python demo_video.py "123445667"
+- python demo_reel.py "123445667"
 
 ## Python version
 Python 3.12.3
