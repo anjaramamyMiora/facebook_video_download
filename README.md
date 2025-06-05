@@ -4,8 +4,9 @@ Download video from facebook reels
 install requirements
 activate your virtualenv
 
-python demo_reel.py "https://www.facebook.com/reel/123445667"
-python demo_video.py "https://www.facebook.com/watch?v=123445667"
+- python demo_reel.py "https://www.facebook.com/reel/123445667"
+
+- python demo_video.py "https://www.facebook.com/watch?v=123445667"
 
 or
 
